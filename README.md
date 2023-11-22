@@ -16,8 +16,7 @@ Data Analysis of Pizza Sales record
 This data analysis project aims to provide valuable insight into the sales performance of a pizza store over a year. By analyzing various aspects of the sales data, I seek to indentify trends over months and days, gain deeper understanding of store's performance and make data driven recommendations.
 
 
-
-![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/a38077f7-ec38-4028-bd8d-f38a3c464e8d)
+![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/cd74d615-8887-4e6c-aa20-1a7682fbf6e8)
 
 
 
@@ -61,17 +60,20 @@ GROUP BY pizza_category;
 
 1. Month of January is best performing for the store while May is worst performing month.
 
-![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/eaf7119c-98ce-4589-a0db-b32034a711b4)
+![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/f755c32a-bfe6-4810-b5d6-742dfbd04769)
+
 
 
 2. The revenue of pizza sales is almost equal for all pizza categories where Classic category have minor lead over the others, As it also have the highest number of pizza sold over the year.
 
-![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/d9422144-4547-4308-a52f-b20595c74425)
+![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/ec7ccb8d-07a7-4050-85d8-129fc7866257)
+
 
 
 3. The large size pizza is best performing pizza size for the store with above 46% share.
 
-![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/23836d00-b9c8-4c5b-853f-3e2f92fea5b7)
+![image](https://github.com/Harshkumarspatel/PizzaSales/assets/151779392/8315456a-0b13-4880-ab5d-5c0befa86c05)
+
 
 
 ### Recommendations
